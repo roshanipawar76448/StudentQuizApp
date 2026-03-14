@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+
+        <!-- Logs appear in IntelliJ's Run console -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss} [%-5level] %logger{20} - %msg%n"/>
+        </Console>
+
+        <!-- Logs also saved to a file -->
+        <File name="FileLog" fileName="logs/quiz.log" append="true">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%-5level] %logger{36} - %msg%n"/>
+        </File>
+
+    </Appenders>
+    <Loggers>
+        <!-- All com.quiz.* classes log at DEBUG level -->
+        <Logger name="com.quiz" level="DEBUG" additivity="false">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileLog"/>
+        </Logger>
+        <!-- Everything else logs at WARN level only -->
+        <Root level="WARN">
+            <AppenderRef ref="Console"/>
+        </Root>
+    </Loggers>
+</Configuration>

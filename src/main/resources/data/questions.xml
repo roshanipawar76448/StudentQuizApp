@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+
+    <question type="MCQ" id="Q001" difficulty="EASY" category="Java">
+        <text>Which keyword is used to create a class in Java?</text>
+        <options>
+            <option id="A">interface</option>
+            <option id="B">class</option>
+            <option id="C">struct</option>
+            <option id="D">object</option>
+        </options>
+        <correctAnswer>B</correctAnswer>
+        <explanation>The 'class' keyword defines a new class in Java.</explanation>
+        <timeLimit>30</timeLimit>
+    </question>
+
+    <question type="MCQ" id="Q002" difficulty="EASY" category="Java">
+        <text>What does OOP stand for?</text>
+        <options>
+            <option id="A">Object Oriented Programming</option>
+            <option id="B">Open Operational Process</option>
+            <option id="C">Output Oriented Program</option>
+            <option id="D">Object Operational Process</option>
+        </options>
+        <correctAnswer>A</correctAnswer>
+        <explanation>OOP stands for Object Oriented Programming.</explanation>
+        <timeLimit>30</timeLimit>
+    </question>
+
+    <question type="TF" id="Q003" difficulty="EASY" category="Java">
+        <text>In Java, a class can extend more than one class at the same time.</text>
+        <correctAnswer>False</correctAnswer>
+        <explanation>Java does not support multiple inheritance. A class can only extend one parent class.</explanation>
+        <timeLimit>20</timeLimit>
+    </question>
+
+    <question type="MCQ" id="Q004" difficulty="MEDIUM" category="Java">
+        <text>Which collection does NOT allow duplicate elements?</text>
+        <options>
+            <option id="A">ArrayList</option>
+            <option id="B">LinkedList</option>
+            <option id="C">HashSet</option>
+            <option id="D">Vector</option>
+        </options>
+        <correctAnswer>C</correctAnswer>
+        <explanation>HashSet implements the Set interface which does not allow duplicates.</explanation>
+        <timeLimit>30</timeLimit>
+    </question>
+
+    <question type="TF" id="Q005" difficulty="EASY" category="Java">
+        <text>The 'static' keyword means the method belongs to the class, not an instance.</text>
+        <correctAnswer>True</correctAnswer>
+        <explanation>Static methods belong to the class itself and can be called without creating an object.</explanation>
+        <timeLimit>20</timeLimit>
+    </question>
+
+    <question type="MCQ" id="Q006" difficulty="MEDIUM" category="Java">
+        <text>What is the correct way to declare an ArrayList in Java?</text>
+        <options>
+            <option id="A">ArrayList list = new List();</option>
+            <option id="B">List list = new ArrayList();</option>
+            <option id="C">ArrayList&lt;String&gt; list = new ArrayList&lt;&gt;();</option>
+            <option id="D">Array list = new ArrayList();</option>
+        </options>
+        <correctAnswer>C</correctAnswer>
+        <explanation>The correct modern way is ArrayList&lt;String&gt; list = new ArrayList&lt;&gt;() using generics.</explanation>
+        <timeLimit>30</timeLimit>
+    </question>
+
+    <question type="TF" id="Q007" difficulty="MEDIUM" category="Java">
+        <text>ArrayList is faster than LinkedList for random access by index.</text>
+        <correctAnswer>True</correctAnswer>
+        <explanation>ArrayList uses an array internally so index access is O(1). LinkedList must traverse nodes making it O(n).</explanation>
+        <timeLimit>25</timeLimit>
+    </question>
+
+    <question type="MCQ" id="Q008" difficulty="HARD" category="Java">
+        <text>Which interface must a class implement to be used in a for-each loop?</text>
+        <options>
+            <option id="A">Serializable</option>
+            <option id="B">Comparable</option>
+            <option id="C">Iterable</option>
+            <option id="D">Runnable</option>
+        </options>
+        <correctAnswer>C</correctAnswer>
+        <explanation>The Iterable interface requires implementing iterator() which enables the for-each loop.</explanation>
+        <timeLimit>35</timeLimit>
+    </question>
+
+    <question type="MCQ" id="Q009" difficulty="HARD" category="Java">
+        <text>What is the output of: System.out.println(10 + 20 + "Java")?</text>
+        <options>
+            <option id="A">1020Java</option>
+            <option id="B">30Java</option>
+            <option id="C">Java1020</option>
+            <option id="D">Compilation error</option>
+        </options>
+        <correctAnswer>B</correctAnswer>
+        <explanation>10+20 evaluates to 30 first (both ints), then 30+"Java" concatenates to "30Java".</explanation>
+        <timeLimit>35</timeLimit>
+    </question>
+
+    <question type="TF" id="Q010" difficulty="EASY" category="Java">
+        <text>In Java, the main method must always be declared as public static void.</text>
+        <correctAnswer>True</correctAnswer>
+        <explanation>The JVM calls main() from outside the class (public), without creating an object (static), and expects no return value (void).</explanation>
+        <timeLimit>20</timeLimit>
+    </question>
+
+    <question type="MCQ" id="Q011" difficulty="MEDIUM" category="OOP">
+        <text>Which OOP principle hides internal implementation details?</text>
+        <options>
+            <option id="A">Inheritance</option>
+            <option id="B">Polymorphism</option>
+            <option id="C">Encapsulation</option>
+            <option id="D">Abstraction</option>
+        </options>
+        <correctAnswer>C</correctAnswer>
+        <explanation>Encapsulation bundles data and methods and restricts direct access to internal state using private fields.</explanation>
+        <timeLimit>30</timeLimit>
+    </question>
+
+    <question type="MCQ" id="Q012" difficulty="MEDIUM" category="OOP">
+        <text>What does the 'abstract' keyword on a method mean?</text>
+        <options>
+            <option id="A">The method runs automatically at startup</option>
+            <option id="B">The method has no body and must be overridden by subclasses</option>
+            <option id="C">The method cannot be called from outside</option>
+            <option id="D">The method is inherited automatically</option>
+        </options>
+        <correctAnswer>B</correctAnswer>
+        <explanation>An abstract method has no implementation body. Any non-abstract subclass must provide the implementation.</explanation>
+        <timeLimit>30</timeLimit>
+    </question>
+
+    <question type="TF" id="Q013" difficulty="EASY" category="OOP">
+        <text>Polymorphism allows one method name to behave differently based on the object calling it.</text>
+        <correctAnswer>True</correctAnswer>
+        <explanation>Polymorphism means many forms. The same method name can produce different results depending on the actual object type at runtime.</explanation>
+        <timeLimit>20</timeLimit>
+    </question>
+
+    <question type="MCQ" id="Q014" difficulty="EASY" category="OOP">
+        <text>Which keyword is used to inherit a class in Java?</text>
+        <options>
+            <option id="A">implements</option>
+            <option id="B">inherits</option>
+            <option id="C">extends</option>
+            <option id="D">super</option>
+        </options>
+        <correctAnswer>C</correctAnswer>
+        <explanation>The 'extends' keyword is used to create a subclass that inherits from a parent class.</explanation>
+        <timeLimit>25</timeLimit>
+    </question>
+
+    <question type="TF" id="Q015" difficulty="MEDIUM" category="OOP">
+        <text>An abstract class can have both abstract and non-abstract methods.</text>
+        <correctAnswer>True</correctAnswer>
+        <explanation>Abstract classes can have a mix of abstract methods (no body) and concrete methods (with body). Only interfaces require all methods to be abstract (before Java 8).</explanation>
+        <timeLimit>25</timeLimit>
+    </question>
+
+    <question type="MCQ" id="Q016" difficulty="HARD" category="OOP">
+        <text>What is method overriding in Java?</text>
+        <options>
+            <option id="A">Defining two methods with the same name in the same class</option>
+            <option id="B">A subclass providing its own implementation of a parent class method</option>
+            <option id="C">Calling a method from a parent class using super</option>
+            <option id="D">Making a method private so it cannot be accessed</option>
+        </options>
+        <correctAnswer>B</correctAnswer>
+        <explanation>Overriding is when a subclass redefines a method from the parent class with the same signature but different behavior.</explanation>
+        <timeLimit>30</timeLimit>
+    </question>
+
+    <question type="MCQ" id="Q017" difficulty="HARD" category="OOP">
+        <text>Which of these best describes Abstraction?</text>
+        <options>
+            <option id="A">Copying properties from parent to child class</option>
+            <option id="B">Hiding unnecessary details and showing only essential features</option>
+            <option id="C">Having multiple methods with the same name</option>
+            <option id="D">Wrapping data and methods together in a class</option>
+        </options>
+        <correctAnswer>B</correctAnswer>
+        <explanation>Abstraction means hiding complex implementation details and exposing only what is necessary to the outside world.</explanation>
+        <timeLimit>30</timeLimit>
+    </question>
+
+    <question type="TF" id="Q018" difficulty="EASY" category="OOP">
+        <text>In Java, a child class automatically gets all public and protected methods of its parent class.</text>
+        <correctAnswer>True</correctAnswer>
+        <explanation>Inheritance means the child class gets all public and protected members of the parent class without rewriting them.</explanation>
+        <timeLimit>20</timeLimit>
+    </question>
+
+    <question type="MCQ" id="Q019" difficulty="MEDIUM" category="OOP">
+        <text>What is the purpose of the 'super' keyword in Java?</text>
+        <options>
+            <option id="A">To create a new object of the parent class</option>
+            <option id="B">To call a method or constructor from the parent class</option>
+            <option id="C">To prevent a class from being inherited</option>
+            <option id="D">To declare a static method</option>
+        </options>
+        <correctAnswer>B</correctAnswer>
+        <explanation>super() calls the parent constructor, and super.methodName() calls a parent method from inside a subclass.</explanation>
+        <timeLimit>30</timeLimit>
+    </question>
+
+    <question type="TF" id="Q020" difficulty="HARD" category="OOP">
+        <text>An interface in Java can contain instance variables with values.</text>
+        <correctAnswer>False</correctAnswer>
+        <explanation>Interfaces can only have public static final constants, not regular instance variables. All fields in an interface are implicitly public static final.</explanation>
+        <timeLimit>25</timeLimit>
+    </question>
+
+</questions>

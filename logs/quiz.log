@@ -1,0 +1,1205 @@
+2026-03-15 00:11:39 [INFO ] com.quiz.Main - === Student Quiz App Starting ===
+2026-03-15 00:11:39 [INFO ] com.quiz.repository.ScoreRepository - Created scores file: data/scores.xml
+2026-03-15 00:11:40 [DEBUG] com.quiz.repository.QuestionRepository - Found 10 question elements in XML
+2026-03-15 00:11:40 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 00:11:40 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 00:11:40 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 00:11:40 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 00:11:40 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 00:11:40 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 00:11:40 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 00:11:40 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006b', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 00:11:40 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 00:11:40 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 00:11:40 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 10 questions
+2026-03-15 00:11:40 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 00:11:40 [INFO ] com.quiz.ui.AppFrame - AppFrame ready
+2026-03-15 00:11:40 [INFO ] com.quiz.Main - GUI launched successfully
+2026-03-15 00:12:48 [INFO ] com.quiz.Main - === Student Quiz App Starting ===
+2026-03-15 00:12:48 [DEBUG] com.quiz.repository.QuestionRepository - Found 10 question elements in XML
+2026-03-15 00:12:48 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 00:12:48 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 00:12:48 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 00:12:48 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 00:12:48 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 00:12:48 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 00:12:48 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 00:12:48 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006b', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 00:12:48 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 00:12:48 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 00:12:48 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 10 questions
+2026-03-15 00:12:48 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 00:12:48 [INFO ] com.quiz.ui.AppFrame - AppFrame ready
+2026-03-15 00:12:48 [INFO ] com.quiz.Main - GUI launched successfully
+2026-03-15 00:13:14 [INFO ] com.quiz.Main - === Student Quiz App Starting ===
+2026-03-15 00:13:14 [DEBUG] com.quiz.repository.QuestionRepository - Found 10 question elements in XML
+2026-03-15 00:13:14 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 00:13:14 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 00:13:14 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 00:13:14 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 00:13:14 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 00:13:14 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 00:13:14 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 00:13:14 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006b', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 00:13:14 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 00:13:14 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 00:13:14 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 10 questions
+2026-03-15 00:13:14 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 00:13:14 [INFO ] com.quiz.ui.AppFrame - AppFrame ready
+2026-03-15 00:13:14 [INFO ] com.quiz.Main - GUI launched successfully
+2026-03-15 00:13:38 [DEBUG] com.quiz.repository.QuestionRepository - Found 10 question elements in XML
+2026-03-15 00:13:38 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 00:13:38 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 00:13:38 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 00:13:38 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 00:13:38 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 00:13:38 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 00:13:38 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 00:13:38 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006b', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 00:13:38 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 00:13:38 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 00:13:38 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 10 questions
+2026-03-15 00:13:38 [INFO ] com.quiz.service.QuizService - Quiz started for 'roshni': 4 questions, cat=Java, diff=EASY
+2026-03-15 00:13:38 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 30s
+2026-03-15 00:13:38 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 00:13:38 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: QUIZ
+2026-03-15 00:13:45 [DEBUG] com.quiz.service.QuizService - Q1: answer='B' correct=true
+2026-03-15 00:13:49 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 00:13:49 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 00:14:00 [DEBUG] com.quiz.service.QuizService - Q2: answer='True' correct=true
+2026-03-15 00:14:02 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 00:14:02 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 00:14:08 [DEBUG] com.quiz.service.QuizService - Q3: answer='True' correct=false
+2026-03-15 00:14:10 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 30s
+2026-03-15 00:14:10 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 00:14:14 [DEBUG] com.quiz.service.QuizService - Q4: answer='A' correct=true
+2026-03-15 00:14:16 [DEBUG] com.quiz.repository.ScoreRepository - Loaded 0 scores
+2026-03-15 00:14:16 [INFO ] com.quiz.repository.ScoreRepository - Saved score: roshni: 3/4 (75%) in 38s
+2026-03-15 00:14:16 [INFO ] com.quiz.service.QuizService - Quiz finished: roshni: 3/4 (75%) in 38s
+2026-03-15 00:14:16 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: RESULT
+2026-03-15 00:18:48 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [classes/:?]
+	at com.quiz.service.QuizService.getTopScores(QuizService.java:173) [classes/:?]
+	at com.quiz.controller.QuizController.getTopScores(QuizController.java:43) [classes/:?]
+	at com.quiz.ui.LeaderboardPanel.refresh(LeaderboardPanel.java:103) [classes/:?]
+	at com.quiz.ui.AppFrame.goToLeaderboard(AppFrame.java:96) [classes/:?]
+	at com.quiz.ui.ResultPanel.lambda$build$2(ResultPanel.java:112) [classes/:?]
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.desktop/java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.desktop/java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 00:18:48 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: LEADERBOARD
+2026-03-15 00:31:25 [INFO ] com.quiz.Main - === Student Quiz App Starting ===
+2026-03-15 00:31:25 [DEBUG] com.quiz.repository.QuestionRepository - Found 10 question elements in XML
+2026-03-15 00:31:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 00:31:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 00:31:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 00:31:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 00:31:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 00:31:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 00:31:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 00:31:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006b', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 00:31:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 00:31:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 00:31:25 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 10 questions
+2026-03-15 00:31:25 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 00:31:25 [INFO ] com.quiz.ui.AppFrame - AppFrame ready
+2026-03-15 00:31:25 [INFO ] com.quiz.Main - GUI launched successfully
+2026-03-15 00:31:57 [DEBUG] com.quiz.repository.QuestionRepository - Found 10 question elements in XML
+2026-03-15 00:31:57 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 00:31:57 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 00:31:57 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 00:31:57 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 00:31:57 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 00:31:57 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 00:31:57 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 00:31:57 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006b', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 00:31:57 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 00:31:57 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 00:31:57 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 10 questions
+2026-03-15 00:31:57 [INFO ] com.quiz.service.QuizService - Quiz started for 'Roshni': 2 questions, cat=OOP, diff=MEDIUM
+2026-03-15 00:31:57 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 30s
+2026-03-15 00:31:57 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q007', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 00:31:57 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: QUIZ
+2026-03-15 00:32:04 [DEBUG] com.quiz.service.QuizService - Q1: answer='B' correct=true
+2026-03-15 00:32:07 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 30s
+2026-03-15 00:32:07 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 00:32:15 [DEBUG] com.quiz.service.QuizService - Q2: answer='C' correct=true
+2026-03-15 00:32:16 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.repository.ScoreRepository.saveScore(ScoreRepository.java:51) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.service.QuizService.finishQuiz(QuizService.java:158) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.controller.QuizController.finishQuiz(QuizController.java:40) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.AppFrame.goToResult(AppFrame.java:90) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.QuizPanel.loadNextOrFinish(QuizPanel.java:277) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.QuizPanel.onNext(QuizPanel.java:272) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.QuizPanel.lambda$build$1(QuizPanel.java:142) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 00:32:16 [INFO ] com.quiz.repository.ScoreRepository - Saved score: Roshni: 2/2 (100%) in 19s
+2026-03-15 00:32:16 [INFO ] com.quiz.service.QuizService - Quiz finished: Roshni: 2/2 (100%) in 19s
+2026-03-15 00:32:16 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: RESULT
+2026-03-15 00:32:31 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.service.QuizService.getTopScores(QuizService.java:173) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.controller.QuizController.getTopScores(QuizController.java:43) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.LeaderboardPanel.refresh(LeaderboardPanel.java:103) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.AppFrame.goToLeaderboard(AppFrame.java:96) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.ResultPanel.lambda$build$2(ResultPanel.java:112) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 00:32:31 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: LEADERBOARD
+2026-03-15 00:32:35 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 00:32:38 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.service.QuizService.getTopScores(QuizService.java:173) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.controller.QuizController.getTopScores(QuizController.java:43) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.LeaderboardPanel.refresh(LeaderboardPanel.java:103) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.AppFrame.goToLeaderboard(AppFrame.java:96) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.WelcomePanel.lambda$build$1(WelcomePanel.java:104) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 00:32:38 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: LEADERBOARD
+2026-03-15 00:32:42 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 00:32:45 [DEBUG] com.quiz.repository.QuestionRepository - Found 10 question elements in XML
+2026-03-15 00:32:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 00:32:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 00:32:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 00:32:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 00:32:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 00:32:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 00:32:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 00:32:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006b', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 00:32:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 00:32:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 00:32:45 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 10 questions
+2026-03-15 00:32:45 [INFO ] com.quiz.service.QuizService - Quiz started for 'Roshni': 2 questions, cat=OOP, diff=MEDIUM
+2026-03-15 00:32:45 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 30s
+2026-03-15 00:32:45 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q007', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 00:32:45 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: QUIZ
+2026-03-15 00:32:55 [DEBUG] com.quiz.service.QuizService - Q1: answer='B' correct=true
+2026-03-15 00:32:58 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 30s
+2026-03-15 00:32:58 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 00:33:01 [DEBUG] com.quiz.service.QuizService - Q2: answer='C' correct=true
+2026-03-15 00:33:04 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.repository.ScoreRepository.saveScore(ScoreRepository.java:51) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.service.QuizService.finishQuiz(QuizService.java:158) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.controller.QuizController.finishQuiz(QuizController.java:40) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.AppFrame.goToResult(AppFrame.java:90) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.QuizPanel.loadNextOrFinish(QuizPanel.java:277) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.QuizPanel.onNext(QuizPanel.java:272) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.QuizPanel.lambda$build$1(QuizPanel.java:142) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 00:33:04 [INFO ] com.quiz.repository.ScoreRepository - Saved score: Roshni: 2/2 (100%) in 18s
+2026-03-15 00:33:04 [INFO ] com.quiz.service.QuizService - Quiz finished: Roshni: 2/2 (100%) in 18s
+2026-03-15 00:33:04 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: RESULT
+2026-03-15 00:33:09 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.service.QuizService.getTopScores(QuizService.java:173) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.controller.QuizController.getTopScores(QuizController.java:43) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.LeaderboardPanel.refresh(LeaderboardPanel.java:103) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.AppFrame.goToLeaderboard(AppFrame.java:96) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.ResultPanel.lambda$build$2(ResultPanel.java:112) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 00:33:09 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: LEADERBOARD
+2026-03-15 00:33:13 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 00:33:14 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.service.QuizService.getTopScores(QuizService.java:173) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.controller.QuizController.getTopScores(QuizController.java:43) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.LeaderboardPanel.refresh(LeaderboardPanel.java:103) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.AppFrame.goToLeaderboard(AppFrame.java:96) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.WelcomePanel.lambda$build$1(WelcomePanel.java:104) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 00:33:14 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: LEADERBOARD
+2026-03-15 00:33:19 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 00:49:02 [INFO ] com.quiz.Main - === Student Quiz App Starting ===
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Found 20 question elements in XML
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='What is the correct way to declare an ArrayList in Java?'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q010', type='True / False', difficulty='EASY', text='In Java, the main method must always be declared as public static void.'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q011', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q012', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q013', type='True / False', difficulty='EASY', text='Polymorphism allows one method name to behave differently based on the object calling it.'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q014', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to inherit a class in Java?'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q015', type='True / False', difficulty='MEDIUM', text='An abstract class can have both abstract and non-abstract methods.'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q016', type='Multiple Choice', difficulty='HARD', text='What is method overriding in Java?'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q017', type='Multiple Choice', difficulty='HARD', text='Which of these best describes Abstraction?'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q018', type='True / False', difficulty='EASY', text='In Java, a child class automatically gets all public and protected methods of its parent class.'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q019', type='Multiple Choice', difficulty='MEDIUM', text='What is the purpose of the 'super' keyword in Java?'}
+2026-03-15 00:49:02 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q020', type='True / False', difficulty='HARD', text='An interface in Java can contain instance variables with values.'}
+2026-03-15 00:49:02 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 20 questions
+2026-03-15 00:49:02 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 00:49:02 [INFO ] com.quiz.ui.AppFrame - AppFrame ready
+2026-03-15 00:49:02 [INFO ] com.quiz.Main - GUI launched successfully
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Found 20 question elements in XML
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='What is the correct way to declare an ArrayList in Java?'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q010', type='True / False', difficulty='EASY', text='In Java, the main method must always be declared as public static void.'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q011', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q012', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q013', type='True / False', difficulty='EASY', text='Polymorphism allows one method name to behave differently based on the object calling it.'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q014', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to inherit a class in Java?'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q015', type='True / False', difficulty='MEDIUM', text='An abstract class can have both abstract and non-abstract methods.'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q016', type='Multiple Choice', difficulty='HARD', text='What is method overriding in Java?'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q017', type='Multiple Choice', difficulty='HARD', text='Which of these best describes Abstraction?'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q018', type='True / False', difficulty='EASY', text='In Java, a child class automatically gets all public and protected methods of its parent class.'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q019', type='Multiple Choice', difficulty='MEDIUM', text='What is the purpose of the 'super' keyword in Java?'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q020', type='True / False', difficulty='HARD', text='An interface in Java can contain instance variables with values.'}
+2026-03-15 00:49:25 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 20 questions
+2026-03-15 00:49:25 [INFO ] com.quiz.service.QuizService - Quiz started for 'Pawar': 5 questions, cat=All, diff=EASY
+2026-03-15 00:49:25 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 00:49:25 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 00:49:25 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: QUIZ
+2026-03-15 00:49:32 [DEBUG] com.quiz.service.QuizService - Q1: answer='True' correct=false
+2026-03-15 00:49:35 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 00:49:35 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q018', type='True / False', difficulty='EASY', text='In Java, a child class automatically gets all public and protected methods of its parent class.'}
+2026-03-15 00:49:42 [DEBUG] com.quiz.service.QuizService - Q2: answer='True' correct=true
+2026-03-15 00:49:43 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 30s
+2026-03-15 00:49:43 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 00:49:49 [DEBUG] com.quiz.service.QuizService - Q3: answer='B' correct=true
+2026-03-15 00:49:50 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 00:49:50 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 00:49:56 [DEBUG] com.quiz.service.QuizService - Q4: answer='True' correct=true
+2026-03-15 00:49:57 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 00:49:57 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q010', type='True / False', difficulty='EASY', text='In Java, the main method must always be declared as public static void.'}
+2026-03-15 00:50:04 [DEBUG] com.quiz.service.QuizService - Q5: answer='True' correct=true
+2026-03-15 00:50:05 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.repository.ScoreRepository.saveScore(ScoreRepository.java:51) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.service.QuizService.finishQuiz(QuizService.java:158) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.controller.QuizController.finishQuiz(QuizController.java:40) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.AppFrame.goToResult(AppFrame.java:90) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.QuizPanel.loadNextOrFinish(QuizPanel.java:277) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.QuizPanel.onNext(QuizPanel.java:272) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.QuizPanel.lambda$build$1(QuizPanel.java:142) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 00:50:05 [INFO ] com.quiz.repository.ScoreRepository - Saved score: Pawar: 4/5 (80%) in 40s
+2026-03-15 00:50:05 [INFO ] com.quiz.service.QuizService - Quiz finished: Pawar: 4/5 (80%) in 40s
+2026-03-15 00:50:05 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: RESULT
+2026-03-15 00:50:10 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.service.QuizService.getTopScores(QuizService.java:173) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.controller.QuizController.getTopScores(QuizController.java:43) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.LeaderboardPanel.refresh(LeaderboardPanel.java:103) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.AppFrame.goToLeaderboard(AppFrame.java:96) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.ResultPanel.lambda$build$2(ResultPanel.java:112) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 00:50:10 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: LEADERBOARD
+2026-03-15 00:50:20 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 00:50:24 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.service.QuizService.getTopScores(QuizService.java:173) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.controller.QuizController.getTopScores(QuizController.java:43) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.LeaderboardPanel.refresh(LeaderboardPanel.java:103) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.AppFrame.goToLeaderboard(AppFrame.java:96) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.WelcomePanel.lambda$build$1(WelcomePanel.java:104) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 00:50:24 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: LEADERBOARD
+2026-03-15 00:50:27 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Found 20 question elements in XML
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='What is the correct way to declare an ArrayList in Java?'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q010', type='True / False', difficulty='EASY', text='In Java, the main method must always be declared as public static void.'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q011', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q012', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q013', type='True / False', difficulty='EASY', text='Polymorphism allows one method name to behave differently based on the object calling it.'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q014', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to inherit a class in Java?'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q015', type='True / False', difficulty='MEDIUM', text='An abstract class can have both abstract and non-abstract methods.'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q016', type='Multiple Choice', difficulty='HARD', text='What is method overriding in Java?'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q017', type='Multiple Choice', difficulty='HARD', text='Which of these best describes Abstraction?'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q018', type='True / False', difficulty='EASY', text='In Java, a child class automatically gets all public and protected methods of its parent class.'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q019', type='Multiple Choice', difficulty='MEDIUM', text='What is the purpose of the 'super' keyword in Java?'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q020', type='True / False', difficulty='HARD', text='An interface in Java can contain instance variables with values.'}
+2026-03-15 00:50:31 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 20 questions
+2026-03-15 00:50:31 [INFO ] com.quiz.service.QuizService - Quiz started for 'Pawar': 5 questions, cat=All, diff=EASY
+2026-03-15 00:50:31 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 00:50:31 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 00:50:31 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: QUIZ
+2026-03-15 00:50:37 [DEBUG] com.quiz.service.QuizService - Q1: answer='False' correct=true
+2026-03-15 00:50:38 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 25s
+2026-03-15 00:50:38 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q014', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to inherit a class in Java?'}
+2026-03-15 00:50:48 [DEBUG] com.quiz.service.QuizService - Q2: answer='C' correct=true
+2026-03-15 00:50:50 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 00:50:50 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q018', type='True / False', difficulty='EASY', text='In Java, a child class automatically gets all public and protected methods of its parent class.'}
+2026-03-15 00:50:55 [DEBUG] com.quiz.service.QuizService - Q3: answer='True' correct=true
+2026-03-15 00:50:56 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 00:50:56 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q013', type='True / False', difficulty='EASY', text='Polymorphism allows one method name to behave differently based on the object calling it.'}
+2026-03-15 00:51:07 [DEBUG] com.quiz.service.QuizService - Q4: answer='False' correct=false
+2026-03-15 00:51:09 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 30s
+2026-03-15 00:51:09 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 00:51:12 [DEBUG] com.quiz.service.QuizService - Q5: answer='B' correct=true
+2026-03-15 00:51:15 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.repository.ScoreRepository.saveScore(ScoreRepository.java:51) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.service.QuizService.finishQuiz(QuizService.java:158) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.controller.QuizController.finishQuiz(QuizController.java:40) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.AppFrame.goToResult(AppFrame.java:90) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.QuizPanel.loadNextOrFinish(QuizPanel.java:277) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.QuizPanel.onNext(QuizPanel.java:272) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.QuizPanel.lambda$build$1(QuizPanel.java:142) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 00:51:15 [INFO ] com.quiz.repository.ScoreRepository - Saved score: Pawar: 4/5 (80%) in 43s
+2026-03-15 00:51:15 [INFO ] com.quiz.service.QuizService - Quiz finished: Pawar: 4/5 (80%) in 43s
+2026-03-15 00:51:15 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: RESULT
+2026-03-15 00:51:22 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.service.QuizService.getTopScores(QuizService.java:173) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.controller.QuizController.getTopScores(QuizController.java:43) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.LeaderboardPanel.refresh(LeaderboardPanel.java:103) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.AppFrame.goToLeaderboard(AppFrame.java:96) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at com.quiz.ui.ResultPanel.lambda$build$2(ResultPanel.java:112) [StudentQuizApp-jar-with-dependencies.jar:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 00:51:22 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: LEADERBOARD
+2026-03-15 00:51:30 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 01:21:44 [INFO ] com.quiz.Main - === Student Quiz App Starting ===
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Found 20 question elements in XML
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='What is the correct way to declare an ArrayList in Java?'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q010', type='True / False', difficulty='EASY', text='In Java, the main method must always be declared as public static void.'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q011', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q012', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q013', type='True / False', difficulty='EASY', text='Polymorphism allows one method name to behave differently based on the object calling it.'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q014', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to inherit a class in Java?'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q015', type='True / False', difficulty='MEDIUM', text='An abstract class can have both abstract and non-abstract methods.'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q016', type='Multiple Choice', difficulty='HARD', text='What is method overriding in Java?'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q017', type='Multiple Choice', difficulty='HARD', text='Which of these best describes Abstraction?'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q018', type='True / False', difficulty='EASY', text='In Java, a child class automatically gets all public and protected methods of its parent class.'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q019', type='Multiple Choice', difficulty='MEDIUM', text='What is the purpose of the 'super' keyword in Java?'}
+2026-03-15 01:21:45 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q020', type='True / False', difficulty='HARD', text='An interface in Java can contain instance variables with values.'}
+2026-03-15 01:21:45 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 20 questions
+2026-03-15 01:21:45 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 01:21:45 [INFO ] com.quiz.ui.AppFrame - AppFrame ready
+2026-03-15 01:21:45 [INFO ] com.quiz.Main - GUI launched successfully
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Found 20 question elements in XML
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='What is the correct way to declare an ArrayList in Java?'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q010', type='True / False', difficulty='EASY', text='In Java, the main method must always be declared as public static void.'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q011', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q012', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q013', type='True / False', difficulty='EASY', text='Polymorphism allows one method name to behave differently based on the object calling it.'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q014', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to inherit a class in Java?'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q015', type='True / False', difficulty='MEDIUM', text='An abstract class can have both abstract and non-abstract methods.'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q016', type='Multiple Choice', difficulty='HARD', text='What is method overriding in Java?'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q017', type='Multiple Choice', difficulty='HARD', text='Which of these best describes Abstraction?'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q018', type='True / False', difficulty='EASY', text='In Java, a child class automatically gets all public and protected methods of its parent class.'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q019', type='Multiple Choice', difficulty='MEDIUM', text='What is the purpose of the 'super' keyword in Java?'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q020', type='True / False', difficulty='HARD', text='An interface in Java can contain instance variables with values.'}
+2026-03-15 01:21:50 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 20 questions
+2026-03-15 01:21:50 [INFO ] com.quiz.service.QuizService - Quiz started for 'Player 1': 10 questions, cat=All, diff=All
+2026-03-15 01:21:50 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 35s
+2026-03-15 01:21:50 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 01:21:50 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: QUIZ
+2026-03-15 01:21:58 [INFO ] com.quiz.Main - === Student Quiz App Starting ===
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Found 20 question elements in XML
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='What is the correct way to declare an ArrayList in Java?'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q010', type='True / False', difficulty='EASY', text='In Java, the main method must always be declared as public static void.'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q011', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q012', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q013', type='True / False', difficulty='EASY', text='Polymorphism allows one method name to behave differently based on the object calling it.'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q014', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to inherit a class in Java?'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q015', type='True / False', difficulty='MEDIUM', text='An abstract class can have both abstract and non-abstract methods.'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q016', type='Multiple Choice', difficulty='HARD', text='What is method overriding in Java?'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q017', type='Multiple Choice', difficulty='HARD', text='Which of these best describes Abstraction?'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q018', type='True / False', difficulty='EASY', text='In Java, a child class automatically gets all public and protected methods of its parent class.'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q019', type='Multiple Choice', difficulty='MEDIUM', text='What is the purpose of the 'super' keyword in Java?'}
+2026-03-15 01:21:58 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q020', type='True / False', difficulty='HARD', text='An interface in Java can contain instance variables with values.'}
+2026-03-15 01:21:58 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 20 questions
+2026-03-15 01:21:58 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 01:21:58 [INFO ] com.quiz.ui.AppFrame - AppFrame ready
+2026-03-15 01:21:58 [INFO ] com.quiz.Main - GUI launched successfully
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Found 20 question elements in XML
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='What is the correct way to declare an ArrayList in Java?'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q010', type='True / False', difficulty='EASY', text='In Java, the main method must always be declared as public static void.'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q011', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q012', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q013', type='True / False', difficulty='EASY', text='Polymorphism allows one method name to behave differently based on the object calling it.'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q014', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to inherit a class in Java?'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q015', type='True / False', difficulty='MEDIUM', text='An abstract class can have both abstract and non-abstract methods.'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q016', type='Multiple Choice', difficulty='HARD', text='What is method overriding in Java?'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q017', type='Multiple Choice', difficulty='HARD', text='Which of these best describes Abstraction?'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q018', type='True / False', difficulty='EASY', text='In Java, a child class automatically gets all public and protected methods of its parent class.'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q019', type='Multiple Choice', difficulty='MEDIUM', text='What is the purpose of the 'super' keyword in Java?'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q020', type='True / False', difficulty='HARD', text='An interface in Java can contain instance variables with values.'}
+2026-03-15 01:22:12 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 20 questions
+2026-03-15 01:22:12 [INFO ] com.quiz.service.QuizService - Quiz started for 'pawar': 5 questions, cat=All, diff=EASY
+2026-03-15 01:22:12 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 30s
+2026-03-15 01:22:12 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 01:22:12 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: QUIZ
+2026-03-15 01:22:16 [DEBUG] com.quiz.service.QuizService - Q1: answer='B' correct=true
+2026-03-15 01:22:18 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 01:22:18 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q018', type='True / False', difficulty='EASY', text='In Java, a child class automatically gets all public and protected methods of its parent class.'}
+2026-03-15 01:22:22 [DEBUG] com.quiz.service.QuizService - Q2: answer='True' correct=true
+2026-03-15 01:22:24 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 01:22:24 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 01:22:31 [DEBUG] com.quiz.service.QuizService - Q3: answer='True' correct=false
+2026-03-15 01:22:33 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 01:22:33 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q013', type='True / False', difficulty='EASY', text='Polymorphism allows one method name to behave differently based on the object calling it.'}
+2026-03-15 01:22:39 [DEBUG] com.quiz.service.QuizService - Q4: answer='False' correct=false
+2026-03-15 01:22:41 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 30s
+2026-03-15 01:22:41 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 01:22:44 [DEBUG] com.quiz.service.QuizService - Q5: answer='A' correct=true
+2026-03-15 01:22:46 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [classes/:?]
+	at com.quiz.repository.ScoreRepository.saveScore(ScoreRepository.java:51) [classes/:?]
+	at com.quiz.service.QuizService.finishQuiz(QuizService.java:158) [classes/:?]
+	at com.quiz.controller.QuizController.finishQuiz(QuizController.java:40) [classes/:?]
+	at com.quiz.ui.AppFrame.goToResult(AppFrame.java:90) [classes/:?]
+	at com.quiz.ui.QuizPanel.loadNextOrFinish(QuizPanel.java:277) [classes/:?]
+	at com.quiz.ui.QuizPanel.onNext(QuizPanel.java:272) [classes/:?]
+	at com.quiz.ui.QuizPanel.lambda$build$1(QuizPanel.java:142) [classes/:?]
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.desktop/java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.desktop/java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 01:22:46 [INFO ] com.quiz.repository.ScoreRepository - Saved score: pawar: 3/5 (60%) in 33s
+2026-03-15 01:22:46 [INFO ] com.quiz.service.QuizService - Quiz finished: pawar: 3/5 (60%) in 33s
+2026-03-15 01:22:46 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: RESULT
+2026-03-15 01:22:49 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [classes/:?]
+	at com.quiz.service.QuizService.getTopScores(QuizService.java:173) [classes/:?]
+	at com.quiz.controller.QuizController.getTopScores(QuizController.java:43) [classes/:?]
+	at com.quiz.ui.LeaderboardPanel.refresh(LeaderboardPanel.java:103) [classes/:?]
+	at com.quiz.ui.AppFrame.goToLeaderboard(AppFrame.java:96) [classes/:?]
+	at com.quiz.ui.ResultPanel.lambda$build$2(ResultPanel.java:112) [classes/:?]
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.desktop/java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.desktop/java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 01:22:49 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: LEADERBOARD
+2026-03-15 01:34:43 [INFO ] com.quiz.Main - === Student Quiz App Starting ===
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Found 20 question elements in XML
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='What is the correct way to declare an ArrayList in Java?'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q010', type='True / False', difficulty='EASY', text='In Java, the main method must always be declared as public static void.'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q011', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q012', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q013', type='True / False', difficulty='EASY', text='Polymorphism allows one method name to behave differently based on the object calling it.'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q014', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to inherit a class in Java?'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q015', type='True / False', difficulty='MEDIUM', text='An abstract class can have both abstract and non-abstract methods.'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q016', type='Multiple Choice', difficulty='HARD', text='What is method overriding in Java?'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q017', type='Multiple Choice', difficulty='HARD', text='Which of these best describes Abstraction?'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q018', type='True / False', difficulty='EASY', text='In Java, a child class automatically gets all public and protected methods of its parent class.'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q019', type='Multiple Choice', difficulty='MEDIUM', text='What is the purpose of the 'super' keyword in Java?'}
+2026-03-15 01:34:43 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q020', type='True / False', difficulty='HARD', text='An interface in Java can contain instance variables with values.'}
+2026-03-15 01:34:43 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 20 questions
+2026-03-15 01:34:44 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 01:34:44 [INFO ] com.quiz.ui.AppFrame - AppFrame ready
+2026-03-15 01:34:44 [INFO ] com.quiz.Main - GUI launched successfully
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Found 20 question elements in XML
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='What is the correct way to declare an ArrayList in Java?'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q010', type='True / False', difficulty='EASY', text='In Java, the main method must always be declared as public static void.'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q011', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q012', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q013', type='True / False', difficulty='EASY', text='Polymorphism allows one method name to behave differently based on the object calling it.'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q014', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to inherit a class in Java?'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q015', type='True / False', difficulty='MEDIUM', text='An abstract class can have both abstract and non-abstract methods.'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q016', type='Multiple Choice', difficulty='HARD', text='What is method overriding in Java?'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q017', type='Multiple Choice', difficulty='HARD', text='Which of these best describes Abstraction?'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q018', type='True / False', difficulty='EASY', text='In Java, a child class automatically gets all public and protected methods of its parent class.'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q019', type='Multiple Choice', difficulty='MEDIUM', text='What is the purpose of the 'super' keyword in Java?'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q020', type='True / False', difficulty='HARD', text='An interface in Java can contain instance variables with values.'}
+2026-03-15 01:34:59 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 20 questions
+2026-03-15 01:34:59 [INFO ] com.quiz.service.QuizService - Quiz started for 'Reshma': 5 questions, cat=Java, diff=EASY
+2026-03-15 01:34:59 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 30s
+2026-03-15 01:34:59 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 01:34:59 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: QUIZ
+2026-03-15 01:35:02 [DEBUG] com.quiz.service.QuizService - Q1: answer='A' correct=true
+2026-03-15 01:35:03 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 01:35:03 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 01:35:08 [DEBUG] com.quiz.service.QuizService - Q2: answer='True' correct=false
+2026-03-15 01:35:10 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 30s
+2026-03-15 01:35:10 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 01:35:12 [DEBUG] com.quiz.service.QuizService - Q3: answer='B' correct=true
+2026-03-15 01:35:13 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 01:35:13 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q010', type='True / False', difficulty='EASY', text='In Java, the main method must always be declared as public static void.'}
+2026-03-15 01:35:18 [DEBUG] com.quiz.service.QuizService - Q4: answer='True' correct=true
+2026-03-15 01:35:19 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 01:35:19 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 01:35:25 [DEBUG] com.quiz.service.QuizService - Q5: answer='False' correct=false
+2026-03-15 01:35:27 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [classes/:?]
+	at com.quiz.repository.ScoreRepository.saveScore(ScoreRepository.java:51) [classes/:?]
+	at com.quiz.service.QuizService.finishQuiz(QuizService.java:158) [classes/:?]
+	at com.quiz.controller.QuizController.finishQuiz(QuizController.java:40) [classes/:?]
+	at com.quiz.ui.AppFrame.goToResult(AppFrame.java:90) [classes/:?]
+	at com.quiz.ui.QuizPanel.loadNextOrFinish(QuizPanel.java:277) [classes/:?]
+	at com.quiz.ui.QuizPanel.onNext(QuizPanel.java:272) [classes/:?]
+	at com.quiz.ui.QuizPanel.lambda$build$1(QuizPanel.java:142) [classes/:?]
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.desktop/java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.desktop/java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 01:35:27 [INFO ] com.quiz.repository.ScoreRepository - Saved score: Reshma: 3/5 (60%) in 27s
+2026-03-15 01:35:27 [INFO ] com.quiz.service.QuizService - Quiz finished: Reshma: 3/5 (60%) in 27s
+2026-03-15 01:35:27 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: RESULT
+2026-03-15 01:35:30 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [classes/:?]
+	at com.quiz.service.QuizService.getTopScores(QuizService.java:173) [classes/:?]
+	at com.quiz.controller.QuizController.getTopScores(QuizController.java:43) [classes/:?]
+	at com.quiz.ui.LeaderboardPanel.refresh(LeaderboardPanel.java:103) [classes/:?]
+	at com.quiz.ui.AppFrame.goToLeaderboard(AppFrame.java:96) [classes/:?]
+	at com.quiz.ui.ResultPanel.lambda$build$2(ResultPanel.java:112) [classes/:?]
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.desktop/java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.desktop/java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 01:35:30 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: LEADERBOARD
+2026-03-15 01:35:51 [INFO ] com.quiz.Main - === Student Quiz App Starting ===
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Found 20 question elements in XML
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='What is the correct way to declare an ArrayList in Java?'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q010', type='True / False', difficulty='EASY', text='In Java, the main method must always be declared as public static void.'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q011', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q012', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q013', type='True / False', difficulty='EASY', text='Polymorphism allows one method name to behave differently based on the object calling it.'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q014', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to inherit a class in Java?'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q015', type='True / False', difficulty='MEDIUM', text='An abstract class can have both abstract and non-abstract methods.'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q016', type='Multiple Choice', difficulty='HARD', text='What is method overriding in Java?'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q017', type='Multiple Choice', difficulty='HARD', text='Which of these best describes Abstraction?'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q018', type='True / False', difficulty='EASY', text='In Java, a child class automatically gets all public and protected methods of its parent class.'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q019', type='Multiple Choice', difficulty='MEDIUM', text='What is the purpose of the 'super' keyword in Java?'}
+2026-03-15 01:35:51 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q020', type='True / False', difficulty='HARD', text='An interface in Java can contain instance variables with values.'}
+2026-03-15 01:35:51 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 20 questions
+2026-03-15 01:35:51 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: WELCOME
+2026-03-15 01:35:51 [INFO ] com.quiz.ui.AppFrame - AppFrame ready
+2026-03-15 01:35:51 [INFO ] com.quiz.Main - GUI launched successfully
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Found 20 question elements in XML
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q004', type='Multiple Choice', difficulty='MEDIUM', text='Which collection does NOT allow duplicate elements?'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q006', type='Multiple Choice', difficulty='MEDIUM', text='What is the correct way to declare an ArrayList in Java?'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q007', type='True / False', difficulty='MEDIUM', text='ArrayList is faster than LinkedList for random access by index.'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q008', type='Multiple Choice', difficulty='HARD', text='Which interface must a class implement to be used in a for-each loop?'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q009', type='Multiple Choice', difficulty='HARD', text='What is the output of: System.out.println(10 + 20 + "Java")?'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q010', type='True / False', difficulty='EASY', text='In Java, the main method must always be declared as public static void.'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q011', type='Multiple Choice', difficulty='MEDIUM', text='Which OOP principle hides internal implementation details?'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q012', type='Multiple Choice', difficulty='MEDIUM', text='What does the 'abstract' keyword on a method mean?'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q013', type='True / False', difficulty='EASY', text='Polymorphism allows one method name to behave differently based on the object calling it.'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q014', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to inherit a class in Java?'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q015', type='True / False', difficulty='MEDIUM', text='An abstract class can have both abstract and non-abstract methods.'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q016', type='Multiple Choice', difficulty='HARD', text='What is method overriding in Java?'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q017', type='Multiple Choice', difficulty='HARD', text='Which of these best describes Abstraction?'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q018', type='True / False', difficulty='EASY', text='In Java, a child class automatically gets all public and protected methods of its parent class.'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q019', type='Multiple Choice', difficulty='MEDIUM', text='What is the purpose of the 'super' keyword in Java?'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.repository.QuestionRepository - Loaded: Question{id='Q020', type='True / False', difficulty='HARD', text='An interface in Java can contain instance variables with values.'}
+2026-03-15 01:36:06 [INFO ] com.quiz.repository.QuestionRepository - Successfully loaded 20 questions
+2026-03-15 01:36:06 [INFO ] com.quiz.service.QuizService - Quiz started for 'Reshma': 5 questions, cat=Java, diff=EASY
+2026-03-15 01:36:06 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 01:36:06 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q010', type='True / False', difficulty='EASY', text='In Java, the main method must always be declared as public static void.'}
+2026-03-15 01:36:06 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: QUIZ
+2026-03-15 01:36:10 [DEBUG] com.quiz.service.QuizService - Q1: answer='True' correct=true
+2026-03-15 01:36:12 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 30s
+2026-03-15 01:36:12 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q002', type='Multiple Choice', difficulty='EASY', text='What does OOP stand for?'}
+2026-03-15 01:36:14 [DEBUG] com.quiz.service.QuizService - Q2: answer='A' correct=true
+2026-03-15 01:36:15 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 01:36:15 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q003', type='True / False', difficulty='EASY', text='In Java, a class can extend more than one class at the same time.'}
+2026-03-15 01:36:19 [DEBUG] com.quiz.service.QuizService - Q3: answer='True' correct=false
+2026-03-15 01:36:20 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 30s
+2026-03-15 01:36:20 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q001', type='Multiple Choice', difficulty='EASY', text='Which keyword is used to create a class in Java?'}
+2026-03-15 01:36:24 [DEBUG] com.quiz.service.QuizService - Q4: answer='B' correct=true
+2026-03-15 01:36:25 [DEBUG] com.quiz.ui.QuizPanel - Timer started: 20s
+2026-03-15 01:36:25 [DEBUG] com.quiz.ui.QuizPanel - Loaded: Question{id='Q005', type='True / False', difficulty='EASY', text='The 'static' keyword means the method belongs to the class, not an instance.'}
+2026-03-15 01:36:30 [DEBUG] com.quiz.service.QuizService - Q5: answer='True' correct=true
+2026-03-15 01:36:32 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [classes/:?]
+	at com.quiz.repository.ScoreRepository.saveScore(ScoreRepository.java:51) [classes/:?]
+	at com.quiz.service.QuizService.finishQuiz(QuizService.java:158) [classes/:?]
+	at com.quiz.controller.QuizController.finishQuiz(QuizController.java:40) [classes/:?]
+	at com.quiz.ui.AppFrame.goToResult(AppFrame.java:90) [classes/:?]
+	at com.quiz.ui.QuizPanel.loadNextOrFinish(QuizPanel.java:277) [classes/:?]
+	at com.quiz.ui.QuizPanel.onNext(QuizPanel.java:272) [classes/:?]
+	at com.quiz.ui.QuizPanel.lambda$build$1(QuizPanel.java:142) [classes/:?]
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.desktop/java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.desktop/java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 01:36:32 [INFO ] com.quiz.repository.ScoreRepository - Saved score: Reshma: 4/5 (80%) in 25s
+2026-03-15 01:36:32 [INFO ] com.quiz.service.QuizService - Quiz finished: Reshma: 4/5 (80%) in 25s
+2026-03-15 01:36:32 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: RESULT
+2026-03-15 01:36:37 [ERROR] com.quiz.repository.ScoreRepository - Error loading scores
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:542) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at com.quiz.repository.ScoreRepository.loadAllScores(ScoreRepository.java:74) [classes/:?]
+	at com.quiz.service.QuizService.getTopScores(QuizService.java:173) [classes/:?]
+	at com.quiz.controller.QuizController.getTopScores(QuizController.java:43) [classes/:?]
+	at com.quiz.ui.LeaderboardPanel.refresh(LeaderboardPanel.java:103) [classes/:?]
+	at com.quiz.ui.AppFrame.goToLeaderboard(AppFrame.java:96) [classes/:?]
+	at com.quiz.ui.ResultPanel.lambda$build$2(ResultPanel.java:112) [classes/:?]
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972) [?:?]
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314) [?:?]
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407) [?:?]
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) [?:?]
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) [?:?]
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6576) [?:?]
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3404) [?:?]
+	at java.desktop/java.awt.Component.processEvent(Component.java:6341) [?:?]
+	at java.desktop/java.awt.Container.processEvent(Container.java:2260) [?:?]
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4958) [?:?]
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2318) [?:?]
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4917) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4560) [?:?]
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4501) [?:?]
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2304) [?:?]
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2671) [?:?]
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790) [?:?]
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725) [?:?]
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:702) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2026-03-15 01:36:37 [DEBUG] com.quiz.ui.AppFrame - Navigated to screen: LEADERBOARD
