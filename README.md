@@ -76,5 +76,5 @@ src/main/java/com/quiz/
 
 ## Author
 **Your Name**
-- GitHub:(https://github.com/roshanipawar76448)
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com)
+- GitHub: https://github.com/roshanipawar76448
+- LinkedIn: https://www.linkedin.com/in/roshani-pawar-8b7a842a6?utm_source=share_via&utm_content=profile&utm_medium=member_android
